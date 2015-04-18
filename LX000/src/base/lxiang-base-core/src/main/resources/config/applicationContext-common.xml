@@ -9,6 +9,7 @@
 
 	<context:annotation-config />
 	<context:property-placeholder location="classpath:/config/persistence-mysql" />
+
 	<bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
 
 	<!-- Liquibase Start-->

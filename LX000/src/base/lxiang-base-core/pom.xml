@@ -8,8 +8,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.lxiang.base.core</groupId>
     <artifactId>lxiang-base-core</artifactId>
-    <packaging>war</packaging>
-    <name>lxiang-base-core Maven Webapp</name>
+    <version>1.0-SNAPSHOT</version>
+    <name>lxiang-base-core</name>
     <url>http://maven.apache.org</url>
     <dependencies>
 
@@ -43,6 +43,20 @@
             <artifactId>spring-web</artifactId>
             <version>4.1.6.RELEASE</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>4.1.6.RELEASE</version>
+        </dependency>
+        <!--
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context-support</artifactId>
+            <version>4.1.6.RELEASE</version>
+        </dependency>
+        -->
+
 
         <!-- Spring End -->
 

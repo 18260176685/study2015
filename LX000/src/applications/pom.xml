@@ -9,13 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.lxiang.base</groupId>
-    <artifactId>lxiang-base-parent</artifactId>
+    <groupId>com.lxiang.applications</groupId>
+    <artifactId>lxiang-applications-parent</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>lxiang-base-core</module>
-        <module>lxiang-base-restful</module>
+        <module>lxiang-app</module>
     </modules>
+
 
 
 </project>
