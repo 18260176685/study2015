@@ -126,6 +126,13 @@
             <version>3.1.0.GA</version>
         </dependency>
 
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+
+
     </dependencies>
     <build>
         <finalName>lxiang-base-core</finalName>
